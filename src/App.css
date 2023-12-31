@@ -46,6 +46,7 @@
   padding: 0.2rem 0.3rem;
   font-size: 0.75rem;
   color: var(--text-100);
+  margin-left: 4px;
 }
 
 .note-item {
@@ -69,7 +70,7 @@
 }
 
 .note-item.completed {
-  opacity: 80%;
+  opacity: 70%;
 }
 
 .note-item__header .title {
